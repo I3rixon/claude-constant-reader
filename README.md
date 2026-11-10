@@ -70,3 +70,7 @@ Run `/plugin configure constant-reader@claude-constant-reader`, or open `/config
 - `hooks/lines.ts`: spinner verbs, footer words and tips (edit these to make it yours)
 - `sounds/*.wav`: synthesized sounds
 - `scripts/break.ps1`: Windows break popup
+
+## License
+
+MIT. See [LICENSE](LICENSE).

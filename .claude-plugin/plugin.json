@@ -1,6 +1,9 @@
 {
   "name": "constant-reader",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "license": "MIT",
+  "author": { "name": "I3rixon" },
+  "repository": "https://github.com/I3rixon/claude-constant-reader",
   "description": "A theme for Stephen King fans: The Mist / Shine / Dark Tower stat bars, spinner verbs, tips, soft sounds and a break timer.",
   "types": "./types/index.d.ts",
   "userConfig": {
