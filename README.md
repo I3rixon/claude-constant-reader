@@ -2,6 +2,8 @@
 
 A Claude Code mod for Stephen King fans. It turns session stats into a small story above your prompt: the mist rises as context fills, your shine fades with the 5-hour limit, and the letters of the Dark Tower go dark as the weekly limit is used.
 
+![Constant Reader stat bars above the prompt](docs/screenshot.png)
+
 Fan theme. All lines are original, built on motifs from the books. Sounds are synthesized. Not affiliated with or endorsed by the author.
 
 ## Install
