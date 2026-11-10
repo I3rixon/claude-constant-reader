@@ -1,0 +1,20 @@
+{
+  "name": "constant-reader",
+  "version": "0.1.0",
+  "description": "A theme for Stephen King fans: The Mist / Shine / Dark Tower stat bars, spinner verbs, tips, soft sounds and a break timer.",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "mistThreshold": {
+      "type": "number",
+      "title": "Mist threshold (%)",
+      "description": "Context fill at which the mist gets thick and asks for a /compact or handoff.",
+      "default": 30
+    },
+    "sounds": {
+      "type": "boolean",
+      "title": "Sounds",
+      "description": "Play a soft typewriter bell when a turn ends and a chime when a permission is needed.",
+      "default": true
+    }
+  }
+}

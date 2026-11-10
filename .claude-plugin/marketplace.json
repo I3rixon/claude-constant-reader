@@ -1,0 +1,5 @@
+{
+  "name": "claude-constant-reader",
+  "owner": { "name": "I3rixon" },
+  "plugins": [{ "name": "constant-reader", "source": "./" }]
+}
